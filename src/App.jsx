@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "satyanadella",
   medium: "",
   twitter: "microsoft",
-  youTube: "Code",
+  youTube: "Codex",
 };
 
 const primaryColor = "#4E567E";
